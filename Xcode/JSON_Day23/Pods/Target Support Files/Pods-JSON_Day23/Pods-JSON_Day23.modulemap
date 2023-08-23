@@ -1,0 +1,6 @@
+framework module Pods_JSON_Day23 {
+  umbrella header "Pods-JSON_Day23-umbrella.h"
+
+  export *
+  module * { export * }
+}
